@@ -2,9 +2,9 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "todo.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node todo.js",
     "test": "jest",
     "prepare": "husky install"
   },
